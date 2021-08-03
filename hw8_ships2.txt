@@ -1,0 +1,13 @@
+3
+Agamemnon|10|10|10|20|3
+Dominion|20|40|10|30|3
+Mutsu|10|80|8|10|2
+Player1|20|30
+Player2|12|25
+Player1|12|85
+Player2|24|60
+Player1|100|100
+Player2|15|88
+Player1|15|25
+Player2|30|60
+Player1|50|10

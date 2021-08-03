@@ -1,0 +1,16 @@
+File name => hw9_ships2.txt
+   Agamemnon: (10,10,20,30) Health: 3
+    Dominion: (20,40,30,70) Health: 3
+       Mutsu: (10,80,18,90) Health: 2
+Player1 fires (20, 30) hits    Agamemnon: (10,10,20,30) Health: 2
+Player2 fires (12, 25) hits    Agamemnon: (10,10,20,30) Health: 1
+Player1 fires (12, 85) hits        Mutsu: (10,80,18,90) Health: 1
+Player2 fires (24, 60) hits     Dominion: (20,40,30,70) Health: 2
+Player1 misses at (100,100)
+Player2 fires (15, 88) hits        Mutsu: (10,80,18,90) Health: 0
+Mutsu is sinking!
+Player1 fires (15, 25) hits    Agamemnon: (10,10,20,30) Health: 0
+Agamemnon is sinking!
+Player2 fires (30, 60) hits     Dominion: (20,40,30,70) Health: 1
+Player1 misses at (50,10)
+No player won!
